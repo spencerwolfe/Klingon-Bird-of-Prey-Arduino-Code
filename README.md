@@ -1,5 +1,7 @@
 # Klingon-Bird-of-Prey-Arduino-Code
-This is the Arduino Code for my 1:350ish Klingon Bird of Prey Lighting Effects
+This is the Arduino Code for my 1:350ish Klingon Bird of Prey Lighting Effects  
+Uploaded to GitHub on 5 - 19 - 2018  
+
 
 S. A. Wolfe  
 1 - 26 - 2017  
@@ -19,5 +21,5 @@ Pin 5 = Arduino Pin 0 (PWM), Pin 6 = Arduino Pin 1 (PWM), Pin 7 = Arduino Pin 2,
 
 Binary sketch size: 3,368 bytes (of a 8,192 byte maximum)
 
-A version of the schematic can be found at: https://flic.kr/p/22k9aGt  
-A video of the lighting effects concept can be viewd at: https://flic.kr/p/E6YUmz  
+A version of the schematic can be found [here](https://flic.kr/p/22k9aGt).  
+A video of the lighting effects concept can be viewd [here](https://flic.kr/p/E6YUmz).  
