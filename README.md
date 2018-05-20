@@ -1,6 +1,6 @@
 # Klingon-Bird-of-Prey-Arduino-Code
-This is the Arduino Code for my 1:350ish Klingon Bird of Prey Lighting Effects  
-Uploaded to GitHub on 5 - 19 - 2018  
+## This is the Arduino Code for my 1:350ish Klingon Bird of Prey Lighting Effects  
+## **Uploaded to GitHub on 5 - 19 - 2018**  
 
 
 S. A. Wolfe  
