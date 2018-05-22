@@ -4,7 +4,6 @@
 
 
 S. A. Wolfe  
-1 - 26 - 2017  
 MacOSX 10.11.6 - Arduino 1.0.5 - Atmel ATtiny85 - Arduino-Tiny Hardware Files  
 
 **IMPORTANT** - You will need Arduino 1.0.5 or earlier for the *tiny* hardware  
