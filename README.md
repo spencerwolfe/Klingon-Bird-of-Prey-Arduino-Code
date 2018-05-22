@@ -28,7 +28,7 @@ Pin 5 = Arduino Pin 0 (PWM), Pin 6 = Arduino Pin 1 (PWM), Pin 7 = Arduino Pin 2,
 Binary sketch size: 3,368 bytes (of a 8,192 byte maximum)
 
 **NOTE** - You will need to select "ATtiny85 @ 8MHz" as your board and use whatever ISP  
-you want to burn a bootloader and program the ATtiny85.  
+you want to burn a bootloader and program the ATtiny85. I use the Atmel AVRISP mkII.
 
 A version of the schematic can be found [here](https://flic.kr/p/22k9aGt).  
 A video of the lighting effects concept can be viewd [here](https://flic.kr/p/E6YUmz).  
