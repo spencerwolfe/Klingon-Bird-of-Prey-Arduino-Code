@@ -10,7 +10,7 @@ MacOSX 10.11.6 - Arduino 1.0.5 - Atmel ATtiny85 - Arduino-Tiny Hardware Files
 files to work. Put the *tiny* folder in /Documents/Arduino/hardware/ or  
 whatever folder Arduino stores your sketches. If the hardware folder doesn't  
 exist, simply create it and move *tiny* into it. The original source for the *tiny*  
-hardware folder can be found [here](http://highlowtech.org/?p=1695). I've reposted it for convenience.     
+hardware folder can be found [here](http://highlowtech.org/?p=1695) (I think ... it's been a while). I've reposted it for convenience.     
 
 My code for lighting effects for the 1:350ish Klingon Bird of Prey model
 kit from AMT/Round 2. The code is written for an ATtiny85 microcontroller.
