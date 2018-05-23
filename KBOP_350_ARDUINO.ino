@@ -36,6 +36,9 @@ boolean disruptorState = 0;
 // ==================== End Variables ========================================================= //
 
 
+// NOTE: I have both the "Arduino-like" commands and their direct register equivalents.
+//     The register commands are commented out, but available if you want to use them ...
+
 
 // ===================== Setup ================================================================ //
 void setup() {
