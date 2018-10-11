@@ -30,4 +30,4 @@ Binary sketch size: 3,368 bytes (of a 8,192 byte maximum)
 you want to burn a bootloader and program the ATtiny85. I use the Atmel AVRISP mkII.
 
 A version of the schematic can be found [here](https://flic.kr/p/22k9aGt).  
-A video of the lighting effects concept can be viewd [here](https://flic.kr/p/E6YUmz).  
+A video of the lighting effects concept can be viewd [here](https://www.youtube.com/watch?v=Lgc1hYGJDoI).  
