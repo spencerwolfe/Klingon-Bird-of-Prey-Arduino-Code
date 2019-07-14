@@ -1,10 +1,10 @@
 # Klingon-Bird-of-Prey-Arduino-Code-and-Build-Files
 ## This is the Arduino Code for my 1:350ish Klingon Bird of Prey Lighting Effects   
 
-S.A. Wolfe
-7 - 11 - 2019
-MacOS 10.14.5 - Arduino 1.8.9
-Using [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore)
+S.A. Wolfe 
+7 - 11 - 2019 
+MacOS 10.14.5 - Arduino 1.8.9 
+Using core files from [SpenceKonde/ATTinyCore](https://github.com/SpenceKonde/ATTinyCore) (No Relation :))
 
 My code for lighting effects for the 1:350ish Klingon Bird of Prey model
 kit from AMT/Round 2. The code is written for an ATtiny85 microcontroller.
