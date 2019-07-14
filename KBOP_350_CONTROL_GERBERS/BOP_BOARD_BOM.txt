@@ -1,7 +1,7 @@
 Part                          Type	                            Properties
-Ceramic Capacitor             package 0603 [SMD, multilayer]   capacitance 10nF
+Ceramic Capacitor             package 0603 [SMD, multilayer]   capacitance 100nF
 4.7kΩ Resistor                package 0603 [SMD]               resistance 4.7kΩ; tolerance ±5%
-220Ω Resistor                 package 0603 [SMD]               resistance 220Ω; tolerance ±5%
+180Ω Resistor                 package 0603 [SMD]               resistance 220Ω; tolerance ±5%
 1kΩ Resistor                  package 0603 [SMD]               resistance 1kΩ; tolerance ±5%
 1kΩ Resistor                  package 0603 [SMD]               resistance 1kΩ; tolerance ±5%
 MMBT2222A NPN Transistor      package sot23 [SMD]
