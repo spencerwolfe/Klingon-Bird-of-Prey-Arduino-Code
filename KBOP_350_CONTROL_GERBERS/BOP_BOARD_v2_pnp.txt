@@ -1,0 +1,58 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=BOP_BOARD_v2
+*Date=21:13:08
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;14.8409;-7.46777;0;Bottom;Copper Fill20
+2;;;4.08967;-10.4441;0;Bottom;Copper Fill6
+3;;;14.9238;-4.74693;0;Bottom;Via15
+4;;;14.9238;-10.4439;0;Bottom;Via14
+5;;;6.04688;-4.10405;0;Bottom;Copper Fill19
+6;;;2.48919;-9.30758;0;Bottom;Copper Fill13
+7;;;1.5635;-9.41702;0;Bottom;Copper Fill7
+8;;;13.714;-7.47268;0;Bottom;Copper Fill12
+9;;;3.86079;-2.85606;0;Bottom;Copper Fill18
+10;;;1.63081;-10.4439;0;Bottom;Via1
+11;;;11.1506;-9.15518;0;Bottom;Copper Fill15
+12;;;7.13739;-8.41858;0;Bottom;Copper Fill14
+13;;;6.69477;-5.37996;0;Bottom;Via10
+14;;;14.2677;-7.98867;0;Bottom;Copper Fill11
+15;;;8.22959;-6.00558;0;Bottom;Copper Fill1
+16;;;11.7653;-4.07329;0;Bottom;Copper Fill9
+17;;;1.63081;-4.11406;0;Bottom;Via5
+18;;;7.96082;-1.58193;0;Bottom;Via16
+19;;;2.69239;-10.4398;0;Bottom;Copper Fill8
+20;;;11.2942;-3.46961;0;Bottom;Copper Fill21
+21;220;0603 [SMD];5.64569;-10.4439;0;Top;R1
+22;;;6.06174;-3.481;0;Bottom;Via17
+23;;;5.53719;-3.52916;0;Bottom;Copper Fill3
+24;;;10.4902;-5.42138;0;Bottom;Copper Fill17
+25;220;0603 [SMD];9.44384;-5.5608;180;Bottom;R5
+26;;so;7.52835;-6.01895;90;Top;U1
+27;;;9.85985;-10.4439;0;Bottom;Via2
+28;;;1.63081;-6.64594;0;Bottom;Via4
+29;;;4.77096;-9.74886;0;Bottom;Copper Fill5
+30;;;6.69477;-7.27895;0;Bottom;Via11
+31;;;6.03249;-3.03386;0;Bottom;Copper Fill2
+32;;;12.3919;-10.4439;0;Bottom;Via3
+33;;;14.9238;-1.58197;0;Bottom;Via13
+34;;;6.50239;-3.52916;0;Bottom;Copper Fill4
+35;;;12.35;-3.48203;0;Bottom;Copper Fill10
+36;;sot23-3;10.8098;-2.43105;180;Bottom;Q2
+37;;sot23-3;13.3278;-6.40979;180;Bottom;Q1
+38;;;11.7554;-2.84872;0;Bottom;Copper Fill23
+39;;;14.2576;-6.8751;0;Bottom;Copper Fill22
+40;100nF;0603 [SMD, multilayer];5.64569;-10.4439;180;Bottom;C1
+41;;;1.63081;-1.58197;0;Bottom;Via6
+42;220;0603 [SMD];5.01295;-1.58197;0;Top;R3
+43;220;0603 [SMD];9.44384;-7.45979;180;Bottom;R4
