@@ -14,18 +14,18 @@ also fade slowly with faster pulsations over top of that. Some of this code
 I discovered online and I take no credit for sections where I use it.  
 Specifically, the original code for "push and hold" button switching can be found [here](http://jmsarduino.blogspot.com/2009/05/click-for-press-and-hold-for-b.html).  
 
-Pinout (Attiny85):
-Pin 1 = RESET
-Pin 2 = Code Pin 3 = Torpedo Flash
-Pin 3 = Code Pin 4 (PWM) = Torpedo Ramp
-Pin 4 = GND
-Pin 5 = Code Pin 0 (PWM) = Engine Pulse
-Pin 6 = Code Pin 1 (PWM) = Disruptor Flash
-Pin 7 = Code Pin 2 = Pushbutton (using the internal PULLUP)
-Pin 8 = VCC
+Pinout (Attiny85):  
+Pin 1 = RESET  
+Pin 2 = Code Pin 3 = Torpedo Flash  
+Pin 3 = Code Pin 4 (PWM) = Torpedo Ramp  
+Pin 4 = GND  
+Pin 5 = Code Pin 0 (PWM) = Engine Pulse  
+Pin 6 = Code Pin 1 (PWM) = Disruptor Flash  
+Pin 7 = Code Pin 2 = Pushbutton (using the internal PULLUP)  
+Pin 8 = VCC  
 
-Sketch uses 3852 bytes (47%) of program storage space. Maximum is 8192 bytes.
-Global variables use 61 bytes (11%) of dynamic memory, leaving 451 bytes for local variables. Maximum is 512 bytes.
+Sketch uses 3852 bytes (47%) of program storage space. Maximum is 8192 bytes.  
+Global variables use 61 bytes (11%) of dynamic memory, leaving 451 bytes for local variables. Maximum is 512 bytes.  
 
-A version of the schematic can be found [here.](https://i.imgur.com/BocrYRs.jpg)
-A video of the lighting effects concept can be viewed [here.](https://youtu.be/PGcJWlzBHdg)
+A version of the schematic can be found [here.](https://i.imgur.com/BocrYRs.jpg)  
+A video of the lighting effects concept can be viewed [here.](https://youtu.be/PGcJWlzBHdg)  
