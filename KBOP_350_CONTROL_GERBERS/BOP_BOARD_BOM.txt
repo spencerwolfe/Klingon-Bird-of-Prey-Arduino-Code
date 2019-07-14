@@ -1,5 +1,5 @@
 Part                          Type
-100nF Ceramic Capacitor             package 0603 [SMD, multilayer]
+100nF Ceramic Capacitor       package 0603 [SMD, multilayer]
 4.7kΩ Resistor                package 0603 [SMD]
 180Ω Resistor                 package 0603 [SMD]
 1kΩ Resistor                  package 0603 [SMD]
