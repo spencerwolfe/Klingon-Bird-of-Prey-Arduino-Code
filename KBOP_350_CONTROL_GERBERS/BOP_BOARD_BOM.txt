@@ -6,4 +6,4 @@ Ceramic Capacitor             package 0603 [SMD, multilayer]   capacitance 10nF
 1kΩ Resistor                  package 0603 [SMD]               resistance 1kΩ; tolerance ±5%
 MMBT2222A NPN Transistor      package sot23 [SMD]
 MMBT2222A NPN Transistor      package sot23 [SMD]
-ATTINY85	                package so [SMD]                 variant so08-eiaj;
+ATTINY85	              package so [SMD]                 variant so08-eiaj;
