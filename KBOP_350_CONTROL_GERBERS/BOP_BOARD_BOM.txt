@@ -1,18 +1,9 @@
-Bill of Materials: BOP_BOARD.fzz
-
-Assembly List
-Label	Part Type	Properties
-C1	Ceramic Capacitor	package 0603 [SMD, multilayer]; capacitance 10nF
-R1	4.7kΩ Resistor	package 0603 [SMD]; resistance 4.7kΩ; tolerance ±5%
-R3	220Ω Resistor	package 0603 [SMD]; resistance 220Ω; tolerance ±5%
-R4	1kΩ Resistor	package 0603 [SMD]; resistance 1kΩ; tolerance ±5%
-R5	1kΩ Resistor	package 0603 [SMD]; resistance 1kΩ; tolerance ±5%
-U1	ATTINY85	package so; editable pin labels false; variant so08-eiaj; chip label attiny85
-
-Shopping List
-Amount	Part Type	Properties
-1	Ceramic Capacitor	package 0603 [SMD, multilayer]; capacitance 10nF
-1	4.7kΩ Resistor	package 0603 [SMD]; resistance 4.7kΩ; tolerance ±5%
-1	220Ω Resistor	package 0603 [SMD]; resistance 220Ω; tolerance ±5%
-2	1kΩ Resistor	package 0603 [SMD]; resistance 1kΩ; tolerance ±5%
-1	ATTINY85	package so; editable pin labels false; variant so08-eiaj; chip label attiny85
+Part                       Type	                            Properties
+Ceramic Capacitor	         package 0603 [SMD, multilayer]   capacitance 10nF
+4.7kΩ Resistor	           package 0603 [SMD]               resistance 4.7kΩ; tolerance ±5%
+220Ω Resistor	             package 0603 [SMD]               resistance 220Ω; tolerance ±5%
+1kΩ Resistor	             package 0603 [SMD]               resistance 1kΩ; tolerance ±5%
+1kΩ Resistor	             package 0603 [SMD]               resistance 1kΩ; tolerance ±5%
+MMBT2222A NPN Transistor   package sot23 [SMD]
+MMBT2222A NPN Transistor   package sot23 [SMD]
+ATTINY85	                 package so [SMD]                 variant so08-eiaj;
