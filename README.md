@@ -28,4 +28,4 @@ Sketch uses 3852 bytes (47%) of program storage space. Maximum is 8192 bytes.
 Global variables use 61 bytes (11%) of dynamic memory, leaving 451 bytes for local variables. Maximum is 512 bytes.  
 
 A version of the schematic can be found [here.](https://i.imgur.com/BocrYRs.jpg)  
-A video of the lighting effects concept can be viewed [here.](https://youtu.be/PGcJWlzBHdg)  
+A video of the lighting effects concept can be viewed [here](https://youtu.be/PGcJWlzBHdg) and [here.](https://youtu.be/N_Pehfjpc3A)  
