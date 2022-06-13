@@ -29,3 +29,5 @@ Global variables use 61 bytes (11%) of dynamic memory, leaving 451 bytes for loc
 
 A version of the schematic can be found [here.](https://i.imgur.com/BocrYRs.jpg)  
 A video of the lighting effects concept can be viewed [here](https://youtu.be/PGcJWlzBHdg) and [here.](https://youtu.be/N_Pehfjpc3A)  
+
+NOTE: AS OF 06-13-2022, THIS REPOSITORY IS NOW ARCHIVED AS READ ONLY
